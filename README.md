@@ -31,7 +31,7 @@ make
 ```
 make -j$(nproc)
 ```
-## o bien si ya habias compilado sm64excoop Android termux y no haz borrado absolutamente mada de termux etc. ejecuta este comando dentro de termux 
+## o bien si ya habias compilado sm64excoop Android termux y no haz borrado absolutamente nada de termux etc. ejecuta este comando dentro de termux 
 
 ```
 cd sm64ex-coop
