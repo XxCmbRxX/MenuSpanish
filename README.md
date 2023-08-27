@@ -31,6 +31,21 @@ make
 ```
 make -j$(nproc)
 ```
+## o bien si ya habias compilado sm64excoop Android termux y no haz borrado absolutamente mada de termux etc. ejecuta este comando dentro de termux 
+
+```
+cd sm64ex-coop
+```
+
+```
+make clean
+```
+```
+cd
+```
+y ahora si ejecutar los comandos de arriba 
+_________________________________________________________________________________________________________
+
 # usa estos comandos de abajo em termux para complementar tu menu pausa y tener de una vez por todas sm64excoop 100% Español este de abajo es el Mod Text SPANISH 
 
 ```bash
