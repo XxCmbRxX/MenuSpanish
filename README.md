@@ -3,7 +3,7 @@ esta carpeta sera sobre escrita en la carpeta original de tu compilación reempl
 existentes de sm64ex-coop, asi que primero ` REALIZAR LOS PASOS DE COMPILACIÓN. PARAR EN EL COMANDO (make) Y VOLVER AQUI PARA REALIZAR ESTE CAMBIO DE MENU PAUSA A TU JUEGO `
 
 ## proceso de ejecución
-una vez realices tu proceso de descarga para compilar sm64excoop desde termux y antes de dsr make ejecutar estos comandos
+una vez realices tu proceso de descarga para compilar sm64excoop desde termux y antes de dar make ejecutar estos comandos
 ### entrar a termux y poner
 ```
 git clone https://github.com/XxCmbRxX/MenuSpanish.git
