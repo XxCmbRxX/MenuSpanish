@@ -31,7 +31,7 @@ make
 ```
 make -j$(nproc)
 ```
-# usa estos comandos de abajo em termux para complementar tu lenu pausa y tener de una vez por todas sm64excoop 100% Español este de abajo es el Mod Text SPANISH 
+# usa estos comandos de abajo em termux para complementar tu menu pausa y tener de una vez por todas sm64excoop 100% Español este de abajo es el Mod Text SPANISH 
 
 ```bash
 wget https://github.com/XxCmbRxX/MenuSpanish/raw/master/TEXT-SPANISH.zip
